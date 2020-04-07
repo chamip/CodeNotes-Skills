@@ -30,7 +30,7 @@ C++ Compiler路径：
 
 最后Apply，OK!
 
-![](./CLion.png)
+![](https://github.com/chamip/CodeNotes-Skills/blob/master/CLion.png)
 
 界面出现调试运行图标就行了！
 
