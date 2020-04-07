@@ -30,7 +30,7 @@ C++ Compiler路径：
 
 最后Apply，OK!
 
-![](http://cdn.jsdelivr.net/gh/chamip/CloudImage/img/20200407193029.jpg)
+![](./CLion.png)
 
 界面出现调试运行图标就行了！
 
