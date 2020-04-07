@@ -30,6 +30,8 @@ C++ Compiler路径：
 
 最后Apply，OK!
 
+![CLion](https://raw.githubusercontent.com/chamip/CloudImage/master/img/CLion.png)
+
 界面出现调试运行图标就行了！
 
 之前学习C语言的时候想用这个软件，网上好多配置方法都不行，`https://www.jianshu.com/p/1aa989808e15`我的这个方法就是从这位博主这儿学到的，记录一下。
