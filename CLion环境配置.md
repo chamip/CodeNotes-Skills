@@ -26,7 +26,7 @@ C++ Compiler路径：
 
 `C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe`
 
-![1](C:\Users\asus\Desktop\1.png)
+<img src="C:\Users\asus\Desktop\1.png"/>
 
 最后Apply，OK!
 
